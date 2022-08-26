@@ -1,0 +1,60 @@
+.buttonfield, body {
+    font-family: Poppins,sans-serif;
+}
+.sidemenu {
+    min-width:25vw !important;
+    margin-top: 10vh;
+    margin-right: 3vw;
+    
+}
+
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.sidemenufield h3 {
+    padding: 0 20px;
+}
+
+.sidemenufield {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    height: 80vh;
+    overflow: auto;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 10px;
+}
+
+.divider {
+    border-top: 1px solid #ddd;
+}
+
+hr {
+    display: block;
+    margin: 1.5em;
+    unicode-bidi: isolate;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+}
+
+.sidemenufield .menu-link {
+    display: block;
+}
+
+.menu-link {
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px 10px;
+    padding: 10px 20px;
+    transition: .5s;
+    color: black;
+   text-decoration: none;
+}

@@ -1,0 +1,25 @@
+.single-section {
+    padding: 30px 0;
+}
+
+.single-element {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin: 10px 0;
+    padding: 10px 20px;
+}
+
+.accordionfield .accordion-item {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.accordionfield .accordion-title {
+    align-items: center;
+    background: #ddd;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+}

@@ -1,0 +1,22 @@
+.single-section {
+    padding: 30px 0;
+}
+
+.single-element {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin: 10px 0;
+    padding: 10px 20px;
+}
+
+.card, .cardwarpper {
+    transition: all .3s ease;
+}
+
+.cardwarpper {
+    border-radius: 10px;
+    box-shadow: 0 0 15px 10px rgb(25 25 25 / 4%);
+    box-sizing: border-box;
+    margin: 60px 10px 10px;
+    position: relative;
+}

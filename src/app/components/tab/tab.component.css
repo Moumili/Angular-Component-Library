@@ -1,0 +1,52 @@
+.single-section {
+    padding: 30px 0;
+}
+
+.single-element {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin: 10px 0;
+    padding: 10px 20px;
+}
+
+.all-tabs {
+    border-bottom: 1px solid #ddd;
+    padding: 0;
+}
+
+.tab-content {
+    width: 70vw;
+    height: 200px;
+}
+
+.all-tabs {
+    border-bottom: 1px solid #ddd;
+    padding: 0;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+.tab-list-item.active {
+    background-color: #fff;
+    border: solid #ddd;
+    border-radius: 5px 5px 0 0;
+    border-width: 1px 1px 0;
+}
+
+.tab-content {
+    padding: 10px 0;
+}
+
+.tab-list-item {
+    display: inline-block;
+    list-style: none;
+    margin-bottom: -1px;
+}
